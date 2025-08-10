@@ -4,9 +4,10 @@ O **Pinterest** é rico em conteúdo de diversos nichos: moda, arte, fotografia,
 
 Aqui está um exemplo do feed principal do Pinterest na Web (desktop):
 <img width="1251" height="548" alt="image" src="https://github.com/user-attachments/assets/bc7a1add-d193-440f-bfbe-c9d220bea3e2" />
+<img width="295" height="597" alt="image" src="https://github.com/user-attachments/assets/d33a3f92-c3ff-4dbe-9e46-ad057b914dc3" />
+
 - Um dos pontos a se notar, e que eu particularmente gosto muito é: o tamanho do quadro que se é dado para cada imagem e, como elas, apesar de possuírem tamanhos diferentes, dão a impressão de que se encaixam e harmonizam com toda a tela disponível.
 - A diversidade de conteúdo. No meu caso, como pode ser constatado pelo print, estou em um momento de ser mais curioso por alguns livros diferentes, buscando entender um pouco mais do mundo UX/UI e também, testando alguns exercícios físicos diferentes ao que costumamos fazer na academia de musculação. E por isso, minha recomendação está desse jeito.
-<img width="1251" height="548" alt="image" src="https://github.com/user-attachments/assets/32a75dd5-e91a-46b3-8acf-f3c325df75db" />
 
 ### A facilidade para salvar posts de interesse
 O Pinterest possuí uma funcionalidade para que tu salve os posts que lhe interessam, sem que estes se percam ou se misturem em contextos diferentes. E isso tudo, sem a necessidade de interromper a rolagem.
