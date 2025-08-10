@@ -27,4 +27,5 @@ https://www.youtube.com/shorts/sB5yCFN-Hggw
 
 ## Duolingo iOS - Menção honrosa
 O Duolingo no iOS me surpreendeu. E veja bem, falo de uma posição de quem usava por naos não só o Duolingo, mas como o Android também. O Duolingo de iOS rompe a barreira da tela e, adiciona uma sensação tátil que responde ao que está acontecendo na interface. Ao completar uma tarefa, uma barrinha de recompensa é preenchida e, durante o preenchimento dessa barrinha, o celular vibra, dando a sensação de que você está sentindo a barrinha se preenchendo fisicamente. 
+
 <img width="295" height="597" alt="image" src="https://github.com/user-attachments/assets/6cc433dd-7545-47cf-9736-fb641dbf2f55" />
