@@ -11,6 +11,7 @@ Aqui está um exemplo do feed principal do Pinterest na Web (desktop):
 
 ### A facilidade para salvar posts de interesse
 O Pinterest possuí uma funcionalidade para que tu salve os posts que lhe interessam, sem que estes se percam ou se misturem em contextos diferentes. E isso tudo, sem a necessidade de interromper a rolagem.
+
 <img width="399" height="485" alt="image" src="https://github.com/user-attachments/assets/aabb7966-f1da-4d6c-b056-65f41acef0d3" />
 
 <img width="269" height="94" alt="image" src="https://github.com/user-attachments/assets/40681cdb-2174-4c8a-8412-606a9fa7a297" />
